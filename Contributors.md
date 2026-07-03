@@ -131,6 +131,6 @@
 * [Khairil](https://github.com/kaizeenn)
 * [Uzma](https://github.com/Rumixyz)
 * Vladyslav\_Vytrykush
-* [Ahmed Chmourk](https://github.com/ahmedchmourk)
+* [Ahmed Chmourk (Data Science & AI)](https://github.com/ahmedchmourk)
 
 
