@@ -27,6 +27,7 @@
 * [Dairon Rodriguez](https://github.com/daironirdp)
 [Akshay Appala](https://github.com/akshay-appala)
 * [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
+* [Wanderer](https://github.com/wanderer00a1)
 * [Usman haider](https://github.com/osman-haider)
 * [Aman Tugnawat](https://aman-tugnawat.github.io)
 * [Yuzhe Wang](https://www.linkedin.com/in/yuzhe-wang-4553801b1/)
