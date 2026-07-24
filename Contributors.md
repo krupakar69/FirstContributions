@@ -133,5 +133,5 @@
 * [Uzma](https://github.com/Rumixyz)
 * Vladyslav\_Vytrykush
 * [Ahmed Chmourk (Data Science & AI)](https://github.com/ahmedchmourk)
-
+- [rxt1k](https://github.com/rxt1k)
 
