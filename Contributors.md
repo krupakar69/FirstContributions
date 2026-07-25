@@ -67,6 +67,7 @@
 * [Vishal Chauhan](https://github.com/vish-han)
 * [Sugyani Manjari Dash](https://github.com/Sugyani31)
 * [Kuldepe](https://github.com/kuldeep)
+* [qijinhaocode](https://github.com/qijinhaocode)
 * [Vagdevi Surarapu](https://github.com/Vagdevi007)
 * [Aman kayat](https://github.com/amankayat)
 * [Umesh Badsara](https://www.instagram.com/badsara_umesh/)
