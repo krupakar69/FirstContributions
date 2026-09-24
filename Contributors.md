@@ -43,6 +43,7 @@
 * [Pratik Kashyap](https://github.com/ipratiik)
 * [Barlapally Krishna Reddy](https://twitter.com/barlapallykris1)
 * [Steven Wang](https://github.com/FlyingDutchman1007)
+* [playboi carti](https://github.com/krupakar69)
 * [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 * [Juan Camilo Ortiz 🇨🇴](https://twitter.com/juancortizgonz)
 * [saikiran](https://github.com/bsaikiran88)
